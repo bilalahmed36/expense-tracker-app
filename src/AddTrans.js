@@ -41,7 +41,6 @@ function AddTrans (){
                 <div class=' container'>
                     <p>Add Transaction</p>
                     <hr />
-                    <form >
                         <label>
                             Description
                         </label>
@@ -55,7 +54,7 @@ function AddTrans (){
                         <input type="text"   />
                         <br />
                         < button class='btn btn-info mt-3' onClick = {addTrans} >Add</ button>
-                    </form>
+                   
                 </div>
             </div>
         </div>
